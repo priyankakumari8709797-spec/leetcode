@@ -11,6 +11,7 @@
 | [0238-product-of-array-except-self](https://github.com/priyankakumari8709797-spec/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/priyankakumari8709797-spec/leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/priyankakumari8709797-spec/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/priyankakumari8709797-spec/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/priyankakumari8709797-spec/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/priyankakumari8709797-spec/leetcode/tree/master/0268-missing-number) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/priyankakumari8709797-spec/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
